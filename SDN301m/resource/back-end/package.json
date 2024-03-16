@@ -1,0 +1,28 @@
+{
+  "name": "pe-fall2023-b1",
+  "version": "1.0.0",
+  "description": "RESTFul API back-end application",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "keywords": [
+    "nodejs",
+    "restful",
+    "api"
+  ],
+  "author": "thopn3",
+  "license": "ISC",
+  "type": "module",
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "http-errors": "^2.0.0",
+    "mongoose": "^7.6.2",
+    "morgan": "^1.10.0"
+  }
+}

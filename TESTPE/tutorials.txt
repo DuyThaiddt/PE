@@ -1,0 +1,8 @@
+B0. kiểm tra đã cài node hay mongodb chưa
+B1. npm init --> thêm "type":"module" trong package.json
+B2. npm i dotenv express mongoose 
+npm install --save-dev nodemon
+B3. config database.js & .env theo thứ tự từ 1-7
+
+
+npm i bootstrap react-bootstrap react-router-dom
